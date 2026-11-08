@@ -21,3 +21,13 @@ Each Python script can be run from the terminal. For example:
 ```bash
 python3 module07/functions.py
 ```
+## Reflection
+
+1. **What did I learn?**
+   I learned how to use Git and GitHub to track changes to my Python files and organize my assignments.
+
+2. **What was challenging?**
+   Learning how to navigate folders in Terminal and use Git commands correctly was challenging at first.
+
+3. **How will I use this in the future?**
+   I will use GitHub to organize future programming assignments, track my progress, and save different versions of my work.
