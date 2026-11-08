@@ -1,33 +1,35 @@
-# ISM2411 — Python for Business
+ism2411 - python for business
 
-**Name:** Mason George
+name: Mason George
 
-**Semester:** Fall 2026
+semester: Fall 2026
 
-**Instructor:** Markum Reed
+instructor: Markum Reed
 
-## About This Repo
+about this repo
 
-This repository contains my weekly lab submissions for ISM2411 at the University of South Florida. Each folder corresponds to a module and contains Python programming assignments.
+This is where I keep my Python assignments for ISM2411 at USF. Each folder has the work I've done for that week. I'm using GitHub to keep my assignments organized.
 
-## Modules
+modules
 
-- `module07/` — Functions and Python lab exercises
+week07 - Python functions and lab assignments
 
-## How to Run
+how to run
 
-Each Python script can be run from the terminal. For example:
+To run my Python files, I open Terminal and type:
 
-```bash
-python3 module07/functions.py
-```
-## Reflection
+python3 week07/functions.py
 
-1. **What did I learn?**
-   I learned how to use Git and GitHub to track changes to my Python files and organize my assignments.
+reflection
 
-2. **What was challenging?**
-   Learning how to navigate folders in Terminal and use Git commands correctly was challenging at first.
+1. What did I learn?
 
-3. **How will I use this in the future?**
-   I will use GitHub to organize future programming assignments, track my progress, and save different versions of my work.
+I learned how to use Git and GitHub to save my code and keep track of changes. I also learned how to upload my files using Terminal.
+
+2. What was challenging?
+
+The hardest part was figuring out the Terminal commands and getting my files into the right folders. I messed up a few commands at first but eventually figured it out.
+
+3. How will I use this in the future?
+
+I'll use GitHub for future assignments to keep my work organized and saved in one place. It will also help me go back and look at my older work.
